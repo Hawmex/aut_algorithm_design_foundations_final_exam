@@ -13,7 +13,7 @@ from random import sample
 class KMeansClustering:
     """
     Performs the k-means clustering algorithm on a list of points with the
-    specified number of clusters ((`k`).
+    specified number of clusters (`k`).
 
     ### Notes:
 
