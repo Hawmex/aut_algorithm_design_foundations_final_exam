@@ -1,3 +1,4 @@
-# aut_principles_of_algorithm_design_final_exam
+# AUT Algorithm Design Foundations Final Exam
 
-This repository contains my answers for the final exam of Algorithm Design at AUT.
+This repository contains my answers for the final exam of the Algorithm Design
+Foundations course at AUT (Tehran Polytechnic).
