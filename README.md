@@ -121,4 +121,4 @@ houses.
 The linear regressor was implemented in an object-oriented manner and used the
 closed form solution.
 
-For more information, see [q6_answer.ipynb](./q6_answer.ipynb)
+For more information, see [q6_answer.ipynb](./q6_answer.ipynb).
