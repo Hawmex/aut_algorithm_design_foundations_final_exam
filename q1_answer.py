@@ -1,4 +1,4 @@
-# Principles of Algorithm Design
+# Algorithm Design Foundations
 #
 # Final Exam, Question 1
 #
