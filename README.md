@@ -1,24 +1,21 @@
 # AUT Algorithm Design Foundations Final Exam
 
-This repository contains my answers for the final exam of the Algorithm Design
-Foundations course at AUT (Tehran Polytechnic).
+This repository contains my answers for the final exam of the algorithm design
+foundations course at AUT (Tehran Polytechnic).
 
 ## Question 1
 
-In this question, we have to implement the k-mean clustering algorithm from
-scratch.
+In this question, we implement the k-mean clustering algorithm from scratch.
 
 ### Input
 
-The first line indicates the number of points.
-
-The following lines indicate the `x` and `y` coordinates of the points.
-
-The last line indicates the desired number of clusters (`k`).
+- The number of points.
+- The `x` and `y` coordinates of the points.
+- The desired number of clusters (`k`).
 
 ### Output
 
-The minimum inter-cluster distance.
+- The minimum inter-cluster distance.
 
 ### Example
 
@@ -40,27 +37,25 @@ The minimum inter-cluster distance.
 
 #### Output
 
-`7.0710678`
+```
+7.0710678
+```
 
 ## Question 2
 
 ### Input
 
-The first line indicates the number of vertices and edges.
-
-The following lines indicate each edge's starting and ending vertices, and its
-length.
-
-The next line indicates the number of tours.
-
-The following lines indicate the number of vertices that should be visited in
-each tour followed by the number for each vertex.
+- The number of vertices and edges.
+- Each edge's starting and ending vertices and their length.
+- The number of tours.
+- The number of vertices that must be visited in each tour, followed by their
+  names.
 
 ### Output
 
-The length of the shortest path for each tour.
+- The length of the shortest path for each tour.
 
-## Example
+### Example
 
 #### Input
 
@@ -93,20 +88,23 @@ substring between two string separated by a space.
 
 ### Input
 
-Two strings separated by a space.
+- Two strings separated by a space.
 
 ### Output
 
-The starting index of the LCS in the first string, the starting index of the LCS
-in the second string, and the length of the LCS.
+- The index of the LCS in the first string.
+- The index of the LCS in the second string.
+- The length of the LCS itself.
 
 ### Example
+
+#### Input
 
 ```
 cool toolbox
 ```
 
-#### Input
+#### Output
 
 ```
 1 1 3
@@ -114,11 +112,8 @@ cool toolbox
 
 ## Question 6
 
-In this question, we had to perform data analysis and implement a linear
-regression model from scratch for a dataset containing information about ~20k
-houses.
+In this question, we had to implement a linear regression model from scratch and
+apply it to a dataset containing information of ~20k houses.
 
-The linear regressor was implemented in an object-oriented manner and used the
-closed form solution.
-
-For more information, see [q6_answer.ipynb](./q6_answer.ipynb).
+The linear regressor was implemented utilizing the closed form solution. For
+more information, see [`q6_answer.ipynb`](./q6_answer.ipynb).
