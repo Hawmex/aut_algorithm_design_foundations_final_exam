@@ -9,13 +9,13 @@ In this question, we implement the k-mean clustering algorithm from scratch.
 
 ### Input
 
-- The number of points.
-- The `x` and `y` coordinates of the points.
-- The desired number of clusters (`k`).
+- The number of points
+- The `x` and `y` coordinates of the points
+- The desired number of clusters (`k`)
 
 ### Output
 
-- The minimum inter-cluster distance.
+- The minimum inter-cluster distance
 
 ### Example
 
@@ -45,15 +45,15 @@ In this question, we implement the k-mean clustering algorithm from scratch.
 
 ### Input
 
-- The number of vertices and edges.
-- Each edge's starting and ending vertices and their length.
-- The number of tours.
+- The number of vertices and edges
+- Each edge's starting and ending vertices and their length
+- The number of tours
 - The number of vertices that must be visited in each tour, followed by their
-  names.
+  names
 
 ### Output
 
-- The length of the shortest path for each tour.
+- The length of the shortest path for each tour
 
 ### Example
 
@@ -88,13 +88,13 @@ substring between two string separated by a space.
 
 ### Input
 
-- Two strings separated by a space.
+- Two strings separated by a space
 
 ### Output
 
-- The index of the LCS in the first string.
-- The index of the LCS in the second string.
-- The length of the LCS itself.
+- The index of the LCS in the first string
+- The index of the LCS in the second string
+- The length of the LCS itself
 
 ### Example
 
