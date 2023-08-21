@@ -5,7 +5,7 @@ foundations course at AUT (Tehran Polytechnic).
 
 ## Question 1
 
-In this question, we implement the k-mean clustering algorithm from scratch.
+In this question, we implement the k-means clustering algorithm from scratch.
 
 ### Input
 
