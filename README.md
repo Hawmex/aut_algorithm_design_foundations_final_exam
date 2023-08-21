@@ -83,8 +83,8 @@ Ready
 
 ## Question 3
 
-In this question we had to implement a program that finds the largest common
-substring between two string separated by a space.
+In this question, we had to implement a program that finds the largest common
+substring between two strings separated by a space.
 
 ### Input
 
@@ -113,7 +113,7 @@ cool toolbox
 ## Question 6
 
 In this question, we had to implement a linear regression model from scratch and
-apply it to a dataset containing information of ~20k houses.
+apply it to a dataset containing information on ~20k houses.
 
-The linear regressor was implemented utilizing the closed form solution. For
+The linear regressor was implemented utilizing the closed-form solution. For
 more information, see [`q6_answer.ipynb`](./q6_answer.ipynb).
