@@ -46,7 +46,7 @@ In this question, we implement the k-means clustering algorithm from scratch.
 ### Input
 
 - The number of vertices and edges
-- Each edge's starting and ending vertices and their length
+- Each edge's head, tail, and length
 - The number of tours
 - The number of vertices that must be visited in each tour, followed by their
   names
@@ -116,4 +116,4 @@ In this question, we had to implement a linear regression model from scratch and
 apply it to a dataset containing information on ~20k houses.
 
 The linear regressor was implemented utilizing the closed-form solution. For
-more information, see [`q6_answer.ipynb`](./q6_answer.ipynb).
+more information, visit [`q6_answer.ipynb`](./q6_answer.ipynb).
