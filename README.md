@@ -1,7 +1,7 @@
 # AUT Algorithm Design Foundations Final Exam
 
-This repository contains my answers for the final exam of the algorithm design
-foundations course at AUT (Tehran Polytechnic).
+This repository contains my answers for the final exam of the "Algorithm Design
+Foundations" course at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Question 1
 
